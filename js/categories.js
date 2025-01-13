@@ -97,7 +97,7 @@ document.addEventListener("DOMContentLoaded", () => {
             actionButtons.forEach(button => {
                 button.addEventListener("click", () => {
                     const problemId = button.dataset.id;
-                    window.location.href = `/problem/${problemId}.html?data=${encodedData}`;
+                    window.location.href = `./problem/${problemId}.html?data=${encodedData}`;
                 });
             });
 
