@@ -24,12 +24,12 @@
 
 ## Language Description
 
-### :yoon:Martial Law Language
-
-### :changlangauge:Chang Language
+### Martial Law Language
 
 - **계엄랭 / 尹**
 - [설명(깃허브) 참조](https://github.com/jmnew03/MLL)
+
+### :Chang Language
 
 - 창랭 / **神昌燮**
 - [설명(깃허브) 참조](https://github.com/jh-benjamin/changlang)
