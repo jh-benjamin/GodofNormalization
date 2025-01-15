@@ -173,15 +173,6 @@ python -m mll_package test.yoon
 
 ## Design&Logo
 
-### Martial Law Langauge
-
-<img width="410" alt="yoon" src="https://github.com/user-attachments/assets/4a459d41-5934-403d-ae78-5a94a4dbf862" />
-
-### Chang Language
-
-![chang](https://github.com/user-attachments/assets/96d8d893-047c-4532-bbdf-6110c7bdecdc)
-
-
 ## Thanks to…
 
 - [애플코딩](https://www.youtube.com/@codingapple)
