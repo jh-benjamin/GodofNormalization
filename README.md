@@ -211,10 +211,6 @@ python -m mll_package test.yoon
 - 좋은 아이디어는 언제든 환영입니다.
 - ~~Python 외 다른 언어로 인터프리터를 개발하시면 좋겠습니다.~~
 
-### ~~“정상화”로 개발하면서 “정상화”의 신이 되십시오.~~
-
-- ~~다음 몰입캠프 4주차 때, **“정상화”**된 언어를 사용하면 좋겠습니다.~~
-
 ## Contributors
 
 - [@jh-benjamin](https://github.com/jh-benjamin)
