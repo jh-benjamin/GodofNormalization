@@ -175,11 +175,12 @@ python -m mll_package test.yoon
 
 ### Martial Law Langauge
 
-![yoon.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/2473db11-d5cc-4c02-a44e-557a49b3bee7/yoon.png)
+<img width="410" alt="yoon" src="https://github.com/user-attachments/assets/4a459d41-5934-403d-ae78-5a94a4dbf862" />
 
 ### Chang Language
 
-![chang.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/1897bdac-c378-4fc4-81bb-de4abd322cba/chang.png)
+![chang](https://github.com/user-attachments/assets/96d8d893-047c-4532-bbdf-6110c7bdecdc)
+
 
 ## Thanks to…
 
